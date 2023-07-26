@@ -89,6 +89,7 @@ const Prueba = () => {
                     </View>
                 </BottomSheetModal>
             </BottomSheetModalProvider>
+            
 
             {/* <BottomSheetDef sheetRef={arrayRefs.ref1} snapPoint={snapPoint}
             contentModal={
