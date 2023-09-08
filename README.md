@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/taskSimple_maqueta_github.png?token=GHSAT0AAAAAACDEB3BOSPLHWUZYXGON6VGCZH2XIZQ">
+<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/taskSimple_maqueta_github.png?token=GHSAT0AAAAAACDEB3BPITKSMIMOGHBSHK3QZH2XPVA">
 </p>
 
 ---
@@ -27,5 +27,7 @@ taskSimple es una aplicacion en desarrollo, que su principal objetivo es crear n
 
 # Resumen
 <p align="center">
-<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/footer_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BOMYXISTBIOQYSTQTGZH2XJTA">
+<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/footer_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BO42HHZ7OPO7RW6FWCZH2XPSQ">
 </p>
+
+
