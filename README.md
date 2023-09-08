@@ -13,7 +13,19 @@ taskSimple es una aplicacion en desarrollo, que su principal objetivo es crear n
 - [x] Invitar a otros usuarios a colaborar en una nota.
 - [x] Compatir notas a otros usuarios como pdf, texto, etc.
 
+
 ---
+
+# Guia de estilos
+<p align="center">
+<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/guide_style_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BPGDKDQXBE2OTKIBAUZH2XN7A">
+</p>
+
+
+
+---
+
+# Resumen
 <p align="center">
 <img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/footer_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BOMYXISTBIOQYSTQTGZH2XJTA">
 </p>
