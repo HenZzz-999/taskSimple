@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/taskSimple_maqueta_github.png?token=GHSAT0AAAAAACDEB3BPITKSMIMOGHBSHK3QZH2XPVA">
+<img src="https://github.com/HenZzz-999/taskSimple/blob/29a55db3db90ffbd6b2d1429ed301b2d98afe6a8/apps/public/assets/taskSimple_maqueta_github.png">
 </p>
 
 ---
@@ -18,7 +18,7 @@ taskSimple es una aplicacion en desarrollo, que su principal objetivo es crear n
 
 # Guia de estilos
 <p align="center">
-<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/guide_style_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BPGDKDQXBE2OTKIBAUZH2XN7A">
+<img src="https://github.com/HenZzz-999/taskSimple/blob/29a55db3db90ffbd6b2d1429ed301b2d98afe6a8/apps/public/assets/guide_style_github_taskSimple.png">
 </p>
 
 
@@ -27,7 +27,7 @@ taskSimple es una aplicacion en desarrollo, que su principal objetivo es crear n
 
 # Resumen
 <p align="center">
-<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/footer_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BO42HHZ7OPO7RW6FWCZH2XPSQ">
+<img src="https://github.com/HenZzz-999/taskSimple/blob/29a55db3db90ffbd6b2d1429ed301b2d98afe6a8/apps/public/assets/footer_github_taskSimple.png">
 </p>
 
 
