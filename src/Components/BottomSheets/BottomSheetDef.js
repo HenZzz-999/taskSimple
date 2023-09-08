@@ -14,6 +14,25 @@ const BottomSheetDef = ({ sheetRef, snapPoint, contentModal }) => {
         sheetRef.current.close()
     }
 
+    // backgroundGradientFrom: '#ffffff',
+    //     backgroundGradientTo: '#ffffff',
+    //     color: () => 'rgba(244, 67, 54, 1)',
+    //     strokeWidth: 3, // optional, default 3
+    //     barPercentage: 0.8,
+    //     barRadius: 5,
+    //     // propsForDots: {
+    //     //     r: "6",
+    //     // },
+    //     labelColor: () => '#000',
+    //     decimalPlaces: 2,
+    //     propsForLabels: {
+    //         fontSize: 13,
+    //     },
+    //     propsForBackgroundLines:{
+    //         stroke:"#cccccc",
+    //         strokeWidth: 1.2,
+    //     },
+
     return (
         <Animated.View style={[{position: 'absolute', top: 0, bottom: 0, left: 0, right: 0, justifyContent: 'center', alignItems: 'center', zIndex: zIndex, }, colorBgPopUpStyle]}>
             <Pressable onPress={() => {handleClosePress(); closeModalDinamic();}} style={{flex: 1, width: '100%',}}>

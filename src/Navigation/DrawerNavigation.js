@@ -74,6 +74,8 @@ const CustomDrawerContent = (props) => {
         getUserName();
         console.log(FIREBASE_AUTH.currentUser.email)
     }, [])
+
+    
         return (
             <DrawerContentScrollView contentContainerStyle={{ paddingTop: 0, height: '100%' }} {...props}>
                 {/* Sección adicional */}

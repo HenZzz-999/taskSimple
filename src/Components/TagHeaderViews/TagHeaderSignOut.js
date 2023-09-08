@@ -8,7 +8,7 @@ import BigText from '../Texts/BigText'
 import { ThemeContext } from '../../../ThemeContext';
 
 
-const TagHeaderSignOut = ({tagTextValue}) => {
+const TagHeaderSignOut = ({ tagTextValue }) => {
 
     const navigation = useNavigation();
     const { selectedTheme } = useContext(ThemeContext);

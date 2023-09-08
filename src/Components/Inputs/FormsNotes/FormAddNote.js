@@ -65,7 +65,7 @@ const FormAddNote = () => {
                     collection(FIRESTORE_DB, 'users'),
                     where('owner_uid', '==', user.uid),
                     limit(1)
-                    );
+                );
 
                 const snapshotUser = onSnapshot(queryUser, (snapshot) => {
                     snapshot.docs.map(doc => {
@@ -177,7 +177,7 @@ const FormAddNote = () => {
                                             fontSize: 15,
                                             borderColor: selectedTheme.darkAccent,
                                             borderWidth: 1.8
-                                            }, ]} // errors.titleNote && styles.textInputsError
+                                        }, ]} // errors.titleNote && styles.textInputsError
                                         placeholder='Titulo de la nota'
                                         placeholderTextColor={selectedTheme.darkSecundary}
                                         onChangeText={handleChange('titleNote')}
