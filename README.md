@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/taskSimple_maqueta_github.png?token=GHSAT0AAAAAACDEB3BPGOJKZFHHBBEWOHOUZH2WVXA">
+<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/taskSimple_maqueta_github.png?token=GHSAT0AAAAAACDEB3BOSPLHWUZYXGON6VGCZH2XIZQ">
 </p>
 
 ---
@@ -12,3 +12,8 @@ taskSimple es una aplicacion en desarrollo, que su principal objetivo es crear n
 - [x] Marcar tareas como completadas.
 - [x] Invitar a otros usuarios a colaborar en una nota.
 - [x] Compatir notas a otros usuarios como pdf, texto, etc.
+
+---
+<p align="center">
+<img src="https://raw.githubusercontent.com/HenZzz-999/taskSimple/main/apps/public/assets/footer_github_taskSimple.png?token=GHSAT0AAAAAACDEB3BOMYXISTBIOQYSTQTGZH2XJTA">
+</p>
