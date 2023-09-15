@@ -3,6 +3,9 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
+
+// Create a .env file in your project's root directory and use this names ⬇
+
 import {
     FIREBASE_API_KEY,
     FIREBASE_AUTH_DOMAIN,
