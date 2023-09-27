@@ -6,6 +6,8 @@ import { getFirestore } from "firebase/firestore";
 
 // Create a .env file in your project's root directory and use this names ⬇
 
+// CAMBIO EN VSCODE
+
 import {
     FIREBASE_API_KEY,
     FIREBASE_AUTH_DOMAIN,
